@@ -146,9 +146,10 @@ Documents/
 ├── Informe_Ejecutivo.pdf
 ├── Informe_Tecnico.pdf
 │
-Images/
+Captures/
 │
-├── Dashboard.png
+├── Dashboard-retail.png
+├── Detail_Project.png
 │
 README.md
 requirements
